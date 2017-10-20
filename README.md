@@ -4,6 +4,7 @@ Official lightweight javascript framework of Digital Asset Omnificence (DAO) pro
 ## Install, Build and Test
 ```
 $ npm install
+$ rm -rf node_modules/bitcore-mnemonic/node_modules # if redundant
 $ npm run compile
 $ npm run start
 ```
